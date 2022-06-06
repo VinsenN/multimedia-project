@@ -12,6 +12,6 @@ Made for COMP7084001 Multimedia Systems Group Project.
 
 ## Reference / Sources
 
-- Bootstrap 5: [https://getbootstrap.com/](https://getbootstrap.com/)
-- Logo image: (insert link)
+- Bootstrap 5: [getbootstrap.com](https://getbootstrap.com/)
+- Logo image: [Binary Code free icons designed by Freepik](https://www.flaticon.com/premium-icon/binary-code_2115955)
 
