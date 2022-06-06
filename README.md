@@ -9,7 +9,7 @@ Made for COMP7084001 Multimedia Systems - LC01 Group Project.
 |       <img src="/images/2440017126.jpeg" height="180px"/>      |       <img src="/images/2440030582.jpeg" height="180px"/>      |       <img src="/images/2440031521.jpeg" height="180px"/>      |
 | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 |       [Vio Albert Ferdinand](https://github.com/VioAlbert)     |       [Gregorius Emmanuel Henry](https://github.com/jfcjaya)   |       [Vinsen Nawir](https://github.com/VinsenN)               |
-|                     2440017126                                 |                     2440040582                                 |                           2440031521                           |
+|                     2440017126                                 |                     2440030582                                 |                           2440031521                           |
 
 ## Media Used in the application
 - Image
