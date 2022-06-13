@@ -20,9 +20,7 @@ Made for COMP7084001 Multimedia Systems - LC01 Group Project.
 
 ## Special Thanks
 
-Hady Pranoto, S.Kom., M.T.I. - D1832
-
-As lecturer
+Hady Pranoto, S.Kom., M.T.I. - D1832 as lecturer
 
 ## Reference / Sources
 
