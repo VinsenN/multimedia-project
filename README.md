@@ -29,3 +29,5 @@ As lecturer
 - Bootstrap 5: [getbootstrap.com](https://getbootstrap.com/)
 - Logo image: [Binary Code free icons designed by Freepik](https://www.flaticon.com/premium-icon/binary-code_2115955)
 
+## License
+[MIT License](LICENSE.md)
