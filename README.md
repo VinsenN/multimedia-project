@@ -17,6 +17,9 @@ Made for COMP7084001 Multimedia Systems - LC01 Group Project.
 - Animation
 - Text
 
+## Documentation
+Documentation link: [Documentation - Competitive Programming Series](https://drive.google.com/file/d/1dcmbVXyVKTeeQ1mEo6YDtjvdbZCvoQnk/view?usp=sharing)
+
 ## Special Thanks
 
 Hady Pranoto, S.Kom., M.T.I. - D1832 as lecturer
