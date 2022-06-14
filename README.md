@@ -4,6 +4,8 @@ A simple website to promote video of Competitive Programming Series.
 
 Made for COMP7084001 Multimedia Systems - LC01 Group Project.
 
+Deployment link: [https://vinsenn.github.io/multimedia-project](https://vinsenn.github.io/multimedia-project)
+
 ## Our Team
 
 |       <img src="/images/2440017126.jpeg" height="180px"/>      |       <img src="/images/2440030582.jpeg" height="180px"/>      |       <img src="/images/2440031521.jpeg" height="180px"/>      |
