@@ -16,7 +16,6 @@ Made for COMP7084001 Multimedia Systems - LC01 Group Project.
 - Video
 - Animation
 - Text
-- Audio
 
 ## Special Thanks
 
